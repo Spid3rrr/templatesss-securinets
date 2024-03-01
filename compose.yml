@@ -2,4 +2,4 @@ services:
   webapp:
     build: .
     ports:
-      - "80:5000"
+      - "3333:5000"
